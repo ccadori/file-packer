@@ -11,5 +11,5 @@ $ npm install file-packer
 ### Quick Start
 
 ```bash
-$ node node_modules/file-packer "<file_name1>" "<file_name2>" "<file_name...>" "<new_file>"
+$ node node_modules/file-packer "filename1" "filename2" "filename..." "new_file"
 ```
