@@ -1,0 +1,24 @@
+{
+  "name": "file-packer",
+  "author": "Carlos Cadori",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "homepage": "https://github.com/ccadori/file-packer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccadori/file-packer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ccadori/file-packer/issues"
+  },
+  "keywords": [
+    "packer",
+    "file",
+    "bundle",
+    "packer"
+  ],
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
