@@ -1,3 +1,5 @@
 'use strict'
 
-module.exports = require('./lib/filePacker')
+const FilePacker = require('./lib/filePacker')
+
+module.exports = new FilePacker(process.argv).pack()
