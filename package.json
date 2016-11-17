@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
+  "scripts": {
+    "test": "node node_modules/mocha ./tests/"
+  },
   "homepage": "https://github.com/ccadori/file-packer#readme",
   "repository": {
     "type": "git",
@@ -17,5 +20,6 @@
     "file",
     "bundle",
     "packer"
-  ]
+  ],
+  "devDependencies": {}
 }
