@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var FilePacker = require('../lib/filePacker')
+module.exports = new FilePacker(process.argv).pack()

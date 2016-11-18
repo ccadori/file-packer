@@ -1,5 +1,3 @@
-##FilePacker
-
 FilePacker will simply merge your files into one, without any changes.
 
 ### Installation
@@ -11,5 +9,5 @@ $ npm install file-packer
 ### Quick Start
 
 ```bash
-$ node node_modules/file-packer "filename1" "filename2" "filename..." "new_file"
+$ ./node_modules/bin/filepacker "filename1" "filename2" "filename..." "newfilename"
 ```
